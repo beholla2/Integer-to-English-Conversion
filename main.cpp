@@ -1,3 +1,6 @@
+// Written by Brandon Holland
+// Simple algorithm to convert an integer into English terminology
+
 #include <iostream>
 #include <cmath>
 
